@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the USC Mirc Featured content feature.
+ */
+
+include_once 'usc_mirc_featured_content.features.inc';
